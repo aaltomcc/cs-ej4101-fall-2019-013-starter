@@ -1,6 +1,6 @@
 # This course
 
-**250 words**
+**250 words** sd
 
 # What i have learned
 
