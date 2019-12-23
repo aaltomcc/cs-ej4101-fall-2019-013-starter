@@ -8,4 +8,4 @@
 
 
 
-[diary](diary-013.md)
+[click here for diary](diary-013.md)
