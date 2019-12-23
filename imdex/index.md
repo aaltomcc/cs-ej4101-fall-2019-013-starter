@@ -1,6 +1,6 @@
 # Hello website
 
-welcome to the CS-E4101 introduction to DevOps course!
+## welcome to the CS-E4101 introduction to DevOps course!
 
 ## About my course
 
